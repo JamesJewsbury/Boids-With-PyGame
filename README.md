@@ -1,6 +1,6 @@
 # Boids With PyGame
 ![Photo by <a href="https://unsplash.com/@tumbao1949?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Wainscoat</a> on <a href="https://unsplash.com/photos/a-large-flock-of-birds-flying-over-a-field-b7MZ6iGIoSI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      ]("./Assets/Images/Flock of Birds.jpg")
+      ]("[./Assets/Images/Flock of Birds.jpg](https://github.com/JamesJewsbury/Boids-With-PyGame/blob/main/Assets/Images/Flock%20of%20Birds.jpg)")
 > Photo by <a href="https://unsplash.com/@tumbao1949?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Wainscoat</a> on <a href="https://unsplash.com/photos/a-large-flock-of-birds-flying-over-a-field-b7MZ6iGIoSI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
     
 ## Outline
