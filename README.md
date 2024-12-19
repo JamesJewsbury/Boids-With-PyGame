@@ -80,4 +80,4 @@ FUNCTION Calculate_New_Positions()
 
 ## References
 [^1]: https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/ 
-[^2}: https://vergenet.net/~conrad/boids/pseudocode.html
+[^2]: https://vergenet.net/~conrad/boids/pseudocode.html
