@@ -68,6 +68,7 @@ FUNCTION Rule3(boid bs):
 ```
 
 ### Calculate New Positions
+Finally, to incorporate these new rules into visible movements, we use the following simple function. In this function, we iterate through each boid and update their velocity with the new rules. We then update the position with this new modified velocity.
 ```pseudo
 FUNCTION Calculate_New_Positions()
     Boid b
